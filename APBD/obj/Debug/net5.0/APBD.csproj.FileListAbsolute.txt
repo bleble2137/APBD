@@ -1,0 +1,16 @@
+C:\Users\s20240\Desktop\dupa\APBD\bin\Debug\net5.0\APBD.exe
+C:\Users\s20240\Desktop\dupa\APBD\bin\Debug\net5.0\APBD.deps.json
+C:\Users\s20240\Desktop\dupa\APBD\bin\Debug\net5.0\APBD.runtimeconfig.json
+C:\Users\s20240\Desktop\dupa\APBD\bin\Debug\net5.0\APBD.runtimeconfig.dev.json
+C:\Users\s20240\Desktop\dupa\APBD\bin\Debug\net5.0\APBD.dll
+C:\Users\s20240\Desktop\dupa\APBD\bin\Debug\net5.0\ref\APBD.dll
+C:\Users\s20240\Desktop\dupa\APBD\bin\Debug\net5.0\APBD.pdb
+C:\Users\s20240\Desktop\dupa\APBD\obj\Debug\net5.0\APBD.csproj.AssemblyReference.cache
+C:\Users\s20240\Desktop\dupa\APBD\obj\Debug\net5.0\APBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s20240\Desktop\dupa\APBD\obj\Debug\net5.0\APBD.AssemblyInfoInputs.cache
+C:\Users\s20240\Desktop\dupa\APBD\obj\Debug\net5.0\APBD.AssemblyInfo.cs
+C:\Users\s20240\Desktop\dupa\APBD\obj\Debug\net5.0\APBD.csproj.CoreCompileInputs.cache
+C:\Users\s20240\Desktop\dupa\APBD\obj\Debug\net5.0\APBD.dll
+C:\Users\s20240\Desktop\dupa\APBD\obj\Debug\net5.0\ref\APBD.dll
+C:\Users\s20240\Desktop\dupa\APBD\obj\Debug\net5.0\APBD.pdb
+C:\Users\s20240\Desktop\dupa\APBD\obj\Debug\net5.0\APBD.genruntimeconfig.cache
