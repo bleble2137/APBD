@@ -14,3 +14,19 @@ C:\Users\s20240\Desktop\dupa\APBD\obj\Debug\net5.0\APBD.dll
 C:\Users\s20240\Desktop\dupa\APBD\obj\Debug\net5.0\ref\APBD.dll
 C:\Users\s20240\Desktop\dupa\APBD\obj\Debug\net5.0\APBD.pdb
 C:\Users\s20240\Desktop\dupa\APBD\obj\Debug\net5.0\APBD.genruntimeconfig.cache
+Z:\notki z wykl\SEM6\APBD\APBD\bin\Debug\net5.0\APBD.exe
+Z:\notki z wykl\SEM6\APBD\APBD\bin\Debug\net5.0\APBD.deps.json
+Z:\notki z wykl\SEM6\APBD\APBD\bin\Debug\net5.0\APBD.runtimeconfig.json
+Z:\notki z wykl\SEM6\APBD\APBD\bin\Debug\net5.0\APBD.runtimeconfig.dev.json
+Z:\notki z wykl\SEM6\APBD\APBD\bin\Debug\net5.0\APBD.dll
+Z:\notki z wykl\SEM6\APBD\APBD\bin\Debug\net5.0\ref\APBD.dll
+Z:\notki z wykl\SEM6\APBD\APBD\bin\Debug\net5.0\APBD.pdb
+Z:\notki z wykl\SEM6\APBD\APBD\obj\Debug\net5.0\APBD.csprojAssemblyReference.cache
+Z:\notki z wykl\SEM6\APBD\APBD\obj\Debug\net5.0\APBD.GeneratedMSBuildEditorConfig.editorconfig
+Z:\notki z wykl\SEM6\APBD\APBD\obj\Debug\net5.0\APBD.AssemblyInfoInputs.cache
+Z:\notki z wykl\SEM6\APBD\APBD\obj\Debug\net5.0\APBD.AssemblyInfo.cs
+Z:\notki z wykl\SEM6\APBD\APBD\obj\Debug\net5.0\APBD.csproj.CoreCompileInputs.cache
+Z:\notki z wykl\SEM6\APBD\APBD\obj\Debug\net5.0\APBD.dll
+Z:\notki z wykl\SEM6\APBD\APBD\obj\Debug\net5.0\ref\APBD.dll
+Z:\notki z wykl\SEM6\APBD\APBD\obj\Debug\net5.0\APBD.pdb
+Z:\notki z wykl\SEM6\APBD\APBD\obj\Debug\net5.0\APBD.genruntimeconfig.cache

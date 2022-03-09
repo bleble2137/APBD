@@ -1,0 +1,17 @@
+Z:\notki z wykl\SEM6\APBD\Cw1\bin\Debug\net5.0\Cw1.exe
+Z:\notki z wykl\SEM6\APBD\Cw1\bin\Debug\net5.0\Cw1.dll.config
+Z:\notki z wykl\SEM6\APBD\Cw1\bin\Debug\net5.0\Cw1.deps.json
+Z:\notki z wykl\SEM6\APBD\Cw1\bin\Debug\net5.0\Cw1.runtimeconfig.json
+Z:\notki z wykl\SEM6\APBD\Cw1\bin\Debug\net5.0\Cw1.runtimeconfig.dev.json
+Z:\notki z wykl\SEM6\APBD\Cw1\bin\Debug\net5.0\Cw1.dll
+Z:\notki z wykl\SEM6\APBD\Cw1\bin\Debug\net5.0\ref\Cw1.dll
+Z:\notki z wykl\SEM6\APBD\Cw1\bin\Debug\net5.0\Cw1.pdb
+Z:\notki z wykl\SEM6\APBD\Cw1\obj\Debug\net5.0\Cw1.csprojAssemblyReference.cache
+Z:\notki z wykl\SEM6\APBD\Cw1\obj\Debug\net5.0\Cw1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\notki z wykl\SEM6\APBD\Cw1\obj\Debug\net5.0\Cw1.AssemblyInfoInputs.cache
+Z:\notki z wykl\SEM6\APBD\Cw1\obj\Debug\net5.0\Cw1.AssemblyInfo.cs
+Z:\notki z wykl\SEM6\APBD\Cw1\obj\Debug\net5.0\Cw1.csproj.CoreCompileInputs.cache
+Z:\notki z wykl\SEM6\APBD\Cw1\obj\Debug\net5.0\Cw1.dll
+Z:\notki z wykl\SEM6\APBD\Cw1\obj\Debug\net5.0\ref\Cw1.dll
+Z:\notki z wykl\SEM6\APBD\Cw1\obj\Debug\net5.0\Cw1.pdb
+Z:\notki z wykl\SEM6\APBD\Cw1\obj\Debug\net5.0\Cw1.genruntimeconfig.cache

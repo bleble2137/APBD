@@ -2,7 +2,7 @@
 
 namespace APBD
 {
-    class Program
+    class Crawler
     {
         static void Main(string[] args)
         {

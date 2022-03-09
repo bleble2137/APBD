@@ -1,0 +1,2 @@
+Z:\notki z wykl\SEM6\APBD\Cw1\obj\Debug\Cw1.csprojAssemblyReference.cache
+Z:\notki z wykl\SEM6\APBD\Cw1\obj\Debug\Cw1.csproj.CoreCompileInputs.cache
