@@ -10,7 +10,10 @@ namespace APBD
 {
     public class Cw1
     {
-        private static HttpClient httpClient = new(); // https://www.aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/
+        private static HttpClient httpClient = new(); // zwalnianie zasobow wg polecenia, nie jest poprawne
+                                                      // uzasadnienie mozna znalezc w wielu zrodlach ale ponizsze wydaje sie
+                                                      // dosc wyczerpujace
+                                                      // https://www.aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/
         public static async Task Main(string[] args)
         {
 
